@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: 24.10.1-x86-builder
+name: 24.10-x86-builder
 on:
   repository_dispatch:
   workflow_dispatch:
